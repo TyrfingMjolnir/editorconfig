@@ -1,0 +1,8 @@
+root = true
+
+end_of_line = lf                  # lf = \n, cr = \r
+insert_final_newline = true       # Make sure the file ends with <<end_of_line>>
+indent_style = tab                # Set tab is indent character to make the white-space pretty
+indent_size = 2                   # Set tab size to 2
+charset = utf-8                   # Set character set to utf-8
+trim_trailing_whitespace = true   # Not sure how this works with insert_final_newline = true
